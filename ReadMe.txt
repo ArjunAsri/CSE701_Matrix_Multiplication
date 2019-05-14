@@ -1,6 +1,4 @@
 Author : Arjun Kumar
-Student ID : 432595724
-UPI : akmu999
 Date : 16th March 2018
 Email : akmu999@aucklanduni.ac.nz
 
